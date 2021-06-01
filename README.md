@@ -18,7 +18,7 @@ Just follow these easy steps and you will have your Microsoft Teams app up and r
 4. Type `yo teams` to start the scaffolding of your project
 5. Answer all the questions - for this demo, you can just accept the default values
 6. Once the generator has asked all the questions and installed all dependencies you can start the application
-7. Type `gulp codespace-serve --publish`
+7. Type `gulp codespaces-serve --publish`
 8. You will be asked to sign in to your Microsoft Teams tenant. Preferably sign in to your developer tenant
 9. When the application is running you will get a notificationIn that your application is running on port 3007. Click on *See all forwarded ports* and then right-click on *Public (3007)* and choose *Make Public*
 10. All is now set, go to the Teams tenant where you signed in and the application will be published and ready for you to use
