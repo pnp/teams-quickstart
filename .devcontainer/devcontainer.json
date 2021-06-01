@@ -1,0 +1,15 @@
+{
+	"name": "Microsoft 365 PnP Teams Quickstart",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"portsAttributes": {
+		"3007": {
+			"label": "Public",
+		}
+	},
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+	"remoteUser": "node"
+}
